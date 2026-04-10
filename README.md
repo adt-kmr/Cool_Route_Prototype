@@ -57,8 +57,3 @@ Unlike early prototypes, V9.1 is a **Live Distributed System**. It runs the heav
 * **Demo the Interactivity:** Click a Hawker Centre icon -> "Add Stop".
 * **Demo the Polish:** Switch Language to Tamil/Mandarin.
 
----
-
-### **👥 Credits**
-* **Swaminaatha Krishnan:** System Architect & Full-Stack Integration
-* **Arishya Jindal:** Algorithm Lead (Shadows & Spatial Intelligence)
