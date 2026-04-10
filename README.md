@@ -1,4 +1,4 @@
-# 🚀 **CoolRide V9.1: The "Global Edition" Engine**
+# **CoolRide: The "Global Edition" Engine**
 ### *Live AI. Multi-Language. Production-Ready.*
 
 ---
