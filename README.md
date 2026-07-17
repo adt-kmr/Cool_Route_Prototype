@@ -57,3 +57,5 @@ Unlike early prototypes, V9.1 is a **Live Distributed System**. It runs the heav
 * **Demo the Interactivity:** Click a Hawker Centre icon -> "Add Stop".
 * **Demo the Polish:** Switch Language to Tamil/Mandarin.
 
+Team: Aditya Kumar (ML Systems Developer), Swaminathan Krishnan (Web Developer), Arishya Jindal (Spatial Intelligence System)
+
