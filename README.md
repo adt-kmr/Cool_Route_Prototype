@@ -10,6 +10,8 @@ Unlike early prototypes, V9.1 is a **Live Distributed System**. It runs the heav
 
 ---
 
+<img width="589" height="413" alt="image" src="https://github.com/user-attachments/assets/fc7534f6-6de5-400e-9149-a8baa6c2e7d2" />
+
 ### **🔥 What's New in V9.1? (The "Global Launch" Update)**
 
 1.  **⚡ Live API Server (Ngrok Tunnel):**
@@ -26,6 +28,13 @@ Unlike early prototypes, V9.1 is a **Live Distributed System**. It runs the heav
     * **Multi-Language:** Instantly toggle between **English**, **Mandarin (中文)**, and **Tamil (தமிழ்)**.
     * **Smart Caching:** Instant "Undo" functionality when removing stops.
     * **Data Export:** Download routes as `.kml` for use in Google Earth/Maps.
+  
+<img width="353" height="490" alt="image" src="https://github.com/user-attachments/assets/c0466b07-234e-40f5-b094-58ea1b65c820" />
+
+
+<img width="350" height="490" alt="image" src="https://github.com/user-attachments/assets/4131cad4-824a-497d-84fc-01d9bb367115" />
+
+
 
 ---
 
